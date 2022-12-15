@@ -20,5 +20,8 @@
     "tslint.rulesDirectory": "node_modules/tslint-microsoft-contrib",
     "typescript.tsdk": "./node_modules/typescript/lib",
     "mocha.enabled": true,
-    "omnisharp.autoStart": false
+    "omnisharp.autoStart": false,
+    "yaml.schemas": {
+        "https://json.schemastore.org/codecov.json": "vscode-vfs://github%2B7b2276223a312c22726566223a7b2274797065223a352c226964223a226d6173746572227d7d/OmniSharp/omnisharp-vscode/codecov.yml"
+    }
 }
